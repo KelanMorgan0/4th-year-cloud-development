@@ -1,6 +1,6 @@
-PWD c:\Users\kelan\OneDrive\Documents\GitHub\4th-year-cloud-development\Cloud Report
+PWD c:\Users\kelan\OneDrive\Documents\GitHub\4th-year-cloud-development\Cloud Report\LaTeX for report creation
 INPUT C:\Users\kelan\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\kelan\OneDrive\Documents\GitHub\4th-year-cloud-development\Cloud Report\main.tex
+INPUT c:\Users\kelan\OneDrive\Documents\GitHub\4th-year-cloud-development\Cloud Report\LaTeX for report creation\main.tex
 OUTPUT main.log
 INPUT .\IEEEtran.cls
 INPUT IEEEtran.cls
